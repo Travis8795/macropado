@@ -18,7 +18,7 @@ Designed using **KiCad**.
 
 | Schematic | PCB |
 | :---: | :---: |
-| <img width="1157" height="763" alt="measurements" src="https://github.com/user-attachments/assets/b6f131d2-94ef-4bd8-85d8-5a305997787f" /> | <img width="841" height="592" alt="PCB" src="https://github.com/user-attachments/assets/c60fe072-5dc6-4f44-912f-03be4dfbeae0" /> |
+| <img width="881" height="587" alt="schema" src="https://github.com/user-attachments/assets/de289d7c-433f-4df8-b32e-59749c86f9fe" /> | <img width="841" height="592" alt="PCB" src="https://github.com/user-attachments/assets/c60fe072-5dc6-4f44-912f-03be4dfbeae0" /> |
 
 ## Firmware overview
 Macropado runs on **KMK firmware** using CircuitPython for easy, "on-the-fly" customization.
