@@ -1,6 +1,45 @@
 # macropado
-its 8 keys macropad and rotary encoder that has switch that makes them 9 buttons an OLED screan and RGB lights
+Macropado is a **8 key** macropad with a **rotary encoder** and an **OLED** screan and 8 WS2812B Leds for **RGB** lights, it runs on **KMK** with python.
+
+## CAD
+Designed using **Fusion 360**.
+
+The macropad is assembled by pressing heat-set inserts into the back of the top plate. Then, 16mm screws are inserted through the bottom of the base and the PCB, threading directly into the inserts to hold everything together.
+
+<img width="992" height="665" alt="hackbad" src="https://github.com/user-attachments/assets/bd02f380-c402-4db4-9997-3d04c2e38eac" />
+
+| front | back |
+| :---: | :---: |
+| <img width="1081" height="707" alt="base" src="https://github.com/user-attachments/assets/db0b47d0-61e0-4e7e-bfa3-89681e0f549b" /> | <img width="757" height="372" alt="base back" src="https://github.com/user-attachments/assets/66579155-b59f-4109-a108-542981b2c3f8" /> |
+| <img width="1012" height="693" alt="plate" src="https://github.com/user-attachments/assets/bd134e1a-45c7-49de-85e7-f4e5e32f03ad" /> | <img width="711" height="685" alt="plate back" src="https://github.com/user-attachments/assets/23dc27ee-81e4-420c-b23a-4c11f8438dc8" /> |
+
+## PCB
+Designed using **KiCad**.
+
 | Schematic | PCB |
 | :---: | :---: |
-| <img width="1157" height="763" alt="measurements" src="https://github.com/user-attachments/assets/b6f131d2-94ef-4bd8-85d8-5a305997787f" /> | <img width="841" height="592" alt="PCB" src="https://github.com/user-attachments/assets/c60fe072-5dc6-4f44-912f-03be4dfbeae0" />
- |
+| <img width="1157" height="763" alt="measurements" src="https://github.com/user-attachments/assets/b6f131d2-94ef-4bd8-85d8-5a305997787f" /> | <img width="841" height="592" alt="PCB" src="https://github.com/user-attachments/assets/c60fe072-5dc6-4f44-912f-03be4dfbeae0" /> |
+
+## Firmware overview
+Macropado runs on **KMK firmware** using CircuitPython for easy, "on-the-fly" customization.
+
+* **Rotary Encoder:** Adjusts system volume with a press-to-mute function.
+* **8 Programmable Keys:** Currently configured as custom macros for productivity.
+* **OLED Screen:** Features a custom **Bongocat** animation! :3
+* **RGB Lighting:** 8 addressable WS2812B LEDs for dynamic status effects.
+
+All logic is written in Python using KMK modules and extensions.
+
+## BOM:
+Here is **everything** you need to make this macropad
+
+- 1x XIAO RP2040
+- 8x Cherry MX Switches
+- 8x DSA Keycaps
+- 4x M3x5x4 Heatset inserts
+- 4x M3x16mm screws
+- 9x 1N4148 DO-35 Diodes.
+- 8x WS2812B LEDs
+- 1x 0.91" 128x32 OLED Display
+- 1x EC11 Rotary Encoder
+- 1x Case (3 printed parts)
