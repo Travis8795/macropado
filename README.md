@@ -43,3 +43,10 @@ Here is **everything** you need to make this macropad
 - 1x 0.91" 128x32 OLED Display
 - 1x EC11 Rotary Encoder
 - 1x Case (3 printed parts)
+
+---
+A huge shout-out to Hack Club and the Blueprint team!
+
+I’ve dreamed of making this macropad for a long time, but I failed my previous attempts. Blueprint was the awesome opportunity I needed. The community support was amazing and helped me through the tough parts!
+
+This was my first time ever using Fusion 360 for CAD, KiCad for PCB design, and my first time 'shipping' a complete GitHub repo. I learned so much during this YSWS journey. Thank you for everything—I owe you guys a lot! I'm so proud of my Macropado. <3
