@@ -6,7 +6,8 @@ Designed using **Fusion 360**.
 
 The macropad is assembled by pressing heat-set inserts into the back of the top plate. Then, 16mm screws are inserted through the bottom of the base and the PCB, threading directly into the inserts to hold everything together.
 
-<img width="992" height="665" alt="hackbad" src="https://github.com/user-attachments/assets/bd02f380-c402-4db4-9997-3d04c2e38eac" />
+<img width="1067" height="565" alt="image" src="https://github.com/user-attachments/assets/d38d1b1f-ef38-484e-9cfa-1f32784e389e" />
+
 
 | front | back |
 | :---: | :---: |
