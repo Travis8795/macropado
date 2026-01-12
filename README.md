@@ -1,5 +1,5 @@
 # macropado
-Macropado is a **8 key** macropad with a **rotary encoder** and an **OLED** screan and 8 WS2812B Leds for **RGB** lights, it runs on **KMK** with python.
+Macropado is a **8 key** macropad with a **rotary encoder** and an **OLED** screan and 8 SK6812 MINI Leds for **RGB** lights, it runs on **KMK** with python.
 
 ## CAD
 Designed using **Fusion 360**.
@@ -26,7 +26,7 @@ Macropado runs on **KMK firmware** using CircuitPython for easy, "on-the-fly" cu
 * **Rotary Encoder:** Adjusts system volume with a press-to-mute function.
 * **8 Programmable Keys:** Currently configured as custom macros for productivity.
 * **OLED Screen:** Features a custom **Bongocat** animation! :3
-* **RGB Lighting:** 8 addressable WS2812B LEDs for dynamic status effects.
+* **RGB Lighting:** 8 addressable SK6812 MINI LEDs for dynamic status effects.
 
 All logic is written in Python using KMK modules and extensions.
 
@@ -39,7 +39,7 @@ Here is **everything** you need to make this macropad
 - 4x M3x5x4 Heatset inserts
 - 4x M3x16mm screws
 - 9x 1N4148 DO-35 Diodes.
-- 8x WS2812B LEDs
+- 8x SK6812 MINI LEDs
 - 1x 0.91" 128x32 OLED Display
 - 1x EC11 Rotary Encoder
 - 1x Case (3 printed parts)
