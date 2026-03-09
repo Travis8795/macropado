@@ -1,0 +1,5 @@
+#define ENCODER_A_PINS { GP1 }
+#define ENCODER_B_PINS { GP0 }
+#define ENCODER_RESOLUTION 2
+
+#define OLED_DISPLAY_128X32
