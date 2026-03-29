@@ -1,5 +1,8 @@
 # macropado
 Macropado is a **8 key** macropad with a **rotary encoder** and an **OLED** screan and 8 SK6812 MINI-E Leds for **RGB** lights, it runs on **KMK** with python.
+
+Here is a [video](https://youtu.be/G09okHm-6bo?si=OeQklzNeX-y66rIM) of it working
+
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/55308352-74bd-431b-980a-52e0c58d5472" />
 
 
